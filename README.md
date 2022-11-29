@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello 👋, My name is is Samson Adeyemi</h1>
 <h3 align="center">I am a Curious Fullstack Software Engineer | Hack Reactor Alumni</h3>
 
