@@ -27,7 +27,7 @@
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655354-f87dbc3a-1b43-4ed7-930f-9b353e07821e.png" height="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655643-129823c0-f4d9-4c57-92cd-1de94c1d1b73.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204656382-8e0f590a-9100-4ad7-ad94-b0a88d267020.png" height="20" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="40" /></a>
+<a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204657161-dd750ae9-6e98-47e9-a390-504b8661acf1.png" height="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204652887-658eb57d-27cf-4f14-9ead-28e8adae9cd4.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/640px-Playstation_logo_colour.svg.png" height="40" /></a> 
