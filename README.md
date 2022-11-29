@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, My name is is Samson Adeyemi</h1>
 
-![]([https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif](https://drive.google.com/file/d/1OIDV70gGxR90aiSfeHEHrOG4iFtXgE7S/view?usp=share_link))
+![](https://drive.google.com/file/d/1OIDV70gGxR90aiSfeHEHrOG4iFtXgE7S/view?usp=share_link)
 
 <h3 align="center">I am a Curious Fullstack Software Engineer | Hack Reactor Alumni</h3>
 
