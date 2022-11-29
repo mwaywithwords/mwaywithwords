@@ -24,15 +24,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaywithwords&" alt="mwaywithwords" /></p>
 
 ### I'm a gamer too!
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="40" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="40" /></a> 
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655354-f87dbc3a-1b43-4ed7-930f-9b353e07821e.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655643-129823c0-f4d9-4c57-92cd-1de94c1d1b73.png" height="40" /></a> 
+<a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204656382-8e0f590a-9100-4ad7-ad94-b0a88d267020.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204652887-658eb57d-27cf-4f14-9ead-28e8adae9cd4.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/640px-Playstation_logo_colour.svg.png" height="40" /></a> 
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="40" /></a> 
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="40" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="40" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655151-c0430a15-87aa-4f7b-92bf-3cdb20c8e793.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204653581-16c14f8a-5143-4512-8cc0-f468c3a5ac48.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Call_Of_Duty_MWII.jpg/640px-Call_Of_Duty_MWII.jpg" height="40" /></a>
