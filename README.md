@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, My name is is Samson Adeyemi</h1>
 
-<a href="" target="blank"><img align="center" src="https://drive.google.com/file/d/1OIDV70gGxR90aiSfeHEHrOG4iFtXgE7S/view?usp=share_link" height="20" /></a>
-
 <h3 align="center">I am a Curious Fullstack Software Engineer | Hack Reactor Alumni</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwaywithwords&label=Profile%20views&color=0e75b6&style=flat" alt="mwaywithwords" /> </p>
