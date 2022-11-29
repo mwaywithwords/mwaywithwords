@@ -36,5 +36,5 @@
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655151-c0430a15-87aa-4f7b-92bf-3cdb20c8e793.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204653581-16c14f8a-5143-4512-8cc0-f468c3a5ac48.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Call_Of_Duty_MWII.jpg/640px-Call_Of_Duty_MWII.jpg" height="40" /></a>
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Call_Of_Duty_MWII.jpg/640px-Call_Of_Duty_MWII.jpg" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204659621-c966b8c5-0676-46b1-a472-be38585eeda8.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204658860-428c0f7b-d58d-4c4f-859c-160f053832c6.png" height="40" /></a>
