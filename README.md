@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaywithwords&" alt="mwaywithwords" /></p>
 
 ### I'm a gamer too!
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655354-f87dbc3a-1b43-4ed7-930f-9b353e07821e.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655354-f87dbc3a-1b43-4ed7-930f-9b353e07821e.png" height="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204655643-129823c0-f4d9-4c57-92cd-1de94c1d1b73.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/78009627/204656382-8e0f590a-9100-4ad7-ad94-b0a88d267020.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="40" /></a>
