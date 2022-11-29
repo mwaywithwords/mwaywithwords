@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, My name is is Samson Adeyemi</h1>
 <h3 align="center">I am a Curious Fullstack Software Engineer | Hack Reactor Alumni</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwaywithwords&label=Profile%20views&color=0e75b6&style=flat" alt="mwaywithwords" /> </p>
+
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **Mrwaywithwords@gmail.com**
@@ -20,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwaywithwords&show_icons=true&locale=en" alt="mwaywithwords" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaywithwords&" alt="mwaywithwords" /></p>
-
